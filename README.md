@@ -17,7 +17,7 @@ datasets:
       enabled: false
       type: application/dwca
     - url: https://scan-bugs.org:443/portal/webservices/dwc/rss.xml 
-      enabled: false
+      enabled: true
       type: application/rss+xml
 # 
 taxonomies:
